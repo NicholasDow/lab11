@@ -3,9 +3,6 @@
                               Synthesis
  *)
 
-(*
-                               SOLUTION
- *)
 
 
 (* Objective:
